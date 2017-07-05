@@ -1,0 +1,8 @@
+
+\.paket/
+\bin
+\obj
+\packages
+chokidar\.d\.ts
+
+paket\.lock
